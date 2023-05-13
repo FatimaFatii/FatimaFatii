@@ -1,7 +1,7 @@
 ![ logo ](https://github.com/FatimaFatii/FatimaFatii/blob/main/Information.png)
 <h1 align="center">Hi 👋, I'm Arooj Fatima</h1>
 <h3 align="center">Student OF BS-Information Technology</h3>
-<img align="right" alt="Coding" width="400" scr="https://www.pinterest.com/pin/67694800640979573/">
+<!-- <img align="right" alt="Coding" width="400" scr="https://www.pinterest.com/pin/67694800640979573/"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimafatii&label=Profile%20views&color=0e75b6&style=flat" alt="fatimafatii" /> </p>
 
